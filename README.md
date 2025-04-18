@@ -51,7 +51,7 @@ The goal is to preprocess raw tweet data, convert it into numerical representati
 
  - ✅ Test Set Accuracy: ~81.2%
 
- -🧾 Classification Report: Includes precision, recall, and F1-score for both positive and negative sentiment classes.
+ - 🧾 Classification Report: Includes precision, recall, and F1-score for both positive and negative sentiment classes.
 
  - 🔁 Cross Validation (Stratified 5-Fold): Achieved a mean validation accuracy of ~82%.
 
