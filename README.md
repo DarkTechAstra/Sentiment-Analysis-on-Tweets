@@ -47,6 +47,15 @@ The goal is to preprocess raw tweet data, convert it into numerical representati
 7. Evaluate the model on the test set.
 8. Perform Stratified K-Fold validation to ensure generalization.
 
+📊 Model Performance
+
+ - ✅ Test Set Accuracy: ~81.2%
+
+ -🧾 Classification Report: Includes precision, recall, and F1-score for both positive and negative sentiment classes.
+
+ -🔁 Cross Validation (Stratified 5-Fold): Achieved a mean validation accuracy of ~82%.
+
+This model shows consistent performance across different splits of the data, which indicates strong generalization ability for real-world tweet sentiment classification.
 
 ## 💪 Model Highlights
 
