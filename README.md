@@ -53,7 +53,7 @@ The goal is to preprocess raw tweet data, convert it into numerical representati
 
  -🧾 Classification Report: Includes precision, recall, and F1-score for both positive and negative sentiment classes.
 
- -🔁 Cross Validation (Stratified 5-Fold): Achieved a mean validation accuracy of ~82%.
+ - 🔁 Cross Validation (Stratified 5-Fold): Achieved a mean validation accuracy of ~82%.
 
 This model shows consistent performance across different splits of the data, which indicates strong generalization ability for real-world tweet sentiment classification.
 
